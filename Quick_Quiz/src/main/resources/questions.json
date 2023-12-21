@@ -1,0 +1,12 @@
+[
+  {
+    "question": "Which testing is done by developer?",
+    "options": [
+      "Security testing",
+      "Integration testing",
+      "Unit testing",
+      "Closed-box testing"
+    ],
+    "answerKey": 1
+  }
+]
