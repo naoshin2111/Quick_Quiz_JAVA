@@ -7,6 +7,26 @@
       "Unit testing",
       "Closed-box testing"
     ],
-    "answerKey": 1
+    "answerKey": 3
+  },
+  {
+    "question": "Which is non functional testing?",
+    "options": [
+      "Unit testing",
+      "Integration testing",
+      "Endurance testing",
+      "All of the above"
+    ],
+    "answerKey": 4
+  },
+  {
+    "question": "What is not the blackbox testing strategy?",
+    "options": [
+      "State Transition",
+      "Branch Testing",
+      "Boundary Value Testing",
+      "Equivalence Partitioning"
+    ],
+    "answerKey": 2
   }
 ]

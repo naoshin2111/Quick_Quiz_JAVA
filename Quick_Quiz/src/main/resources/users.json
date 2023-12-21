@@ -5,7 +5,17 @@
     "role": "admin"
   },
   {
-    "username": "salman",
+    "username": "amita",
+    "password": "1234",
+    "role": "student"
+  },
+  {
+    "username": "tithi",
+    "password": "1234",
+    "role": "student"
+  },
+  {
+    "username": "kotha",
     "password": "1234",
     "role": "student"
   }
