@@ -1,11 +1,161 @@
 [
   {
+    "question": "Which of these is a type of maintenance in software engineering?",
+    "options": [
+      "Preventive maintenance",
+      "Corrective maintenance",
+      "Adaptive maintenance",
+      "All of the above"
+    ],
+    "answerKey": 4
+  },
+  {
+    "question": "What does the \u0027V\u0027 in V-model represent?",
+    "options": [
+      "Verification",
+      "Validation",
+      "Version",
+      "Visual"
+    ],
+    "answerKey": 1
+  },
+  {
+    "question": "Which of these is not a characteristic of a good software?",
+    "options": [
+      "Maintainability",
+      "Dependability",
+      "Complexity",
+      "Usability"
+    ],
+    "answerKey": 3
+  },
+  {
+    "question": "What is the main focus of Agile methodology?",
+    "options": [
+      "Process",
+      "Documentation",
+      "Working software",
+      "Contract negotiation"
+    ],
+    "answerKey": 3
+  },
+  {
+    "question": "In Scrum, who is responsible for prioritizing the backlog?",
+    "options": [
+      "Scrum Master",
+      "Product Owner",
+      "Development Team",
+      "Project Manager"
+    ],
+    "answerKey": 2
+  },
+  {
+    "question": "What is a \u0027use case\u0027 primarily used for?",
+    "options": [
+      "Identifying system requirements",
+      "Code development",
+      "Test case design",
+      "User manual creation"
+    ],
+    "answerKey": 1
+  },
+  {
+    "question": "What type of testing focuses on individual units of source code?",
+    "options": [
+      "System testing",
+      "Integration testing",
+      "Acceptance testing",
+      "Unit testing"
+    ],
+    "answerKey": 4
+  },
+  {
+    "question": "What does Continuous Integration (CI) help to achieve?",
+    "options": [
+      "Faster deployment",
+      "Early bug detection",
+      "Better code quality",
+      "All of the above"
+    ],
+    "answerKey": 4
+  },
+  {
+    "question": "Which one is a functional testing type?",
+    "options": [
+      "Performance Testing",
+      "Usability Testing",
+      "Load Testing",
+      "Sanity Testing"
+    ],
+    "answerKey": 4
+  },
+  {
+    "question": "What is the primary purpose of a test plan?",
+    "options": [
+      "To guide the testing process",
+      "To write test cases",
+      "To report bugs",
+      "To design software"
+    ],
+    "answerKey": 1
+  },
+  {
+    "question": "Which one of these is not a software development life cycle (SDLC) model?",
+    "options": [
+      "Waterfall",
+      "Spiral",
+      "Scrum",
+      "Fish Model"
+    ],
+    "answerKey": 4
+  },
+  {
+    "question": "What is \u0027regression testing\u0027 primarily used for?",
+    "options": [
+      "To test new features",
+      "To verify bug fixes",
+      "To check that unchanged areas of software are still working",
+      "To perform stress testing"
+    ],
+    "answerKey": 3
+  },
+  {
+    "question": "Which of these is not typically a role in a Scrum team?",
+    "options": [
+      "Scrum Master",
+      "Product Owner",
+      "Team Leader",
+      "Development Team"
+    ],
+    "answerKey": 3
+  },
+  {
+    "question": "What is \u0027code refactoring\u0027?",
+    "options": [
+      "Rewriting code in a new language",
+      "Adding new features to the code",
+      "Modifying code to improve structure without changing functionality",
+      "Fixing bugs in the code"
+    ],
+    "answerKey": 3
+  },
+  {
+    "question": "What does \u0027SQA\u0027 stand for?",
+    "options": [
+      "Software Quality Assurance",
+      "System Quality Analysis",
+      "Software Query Assessment",
+      "System Query Assurance"
+    ],
+    "answerKey": 1
+  },
+  {
     "question": "Which testing is done by developer?",
     "options": [
       "Security testing",
       "Integration testing",
       "Unit testing",
-      "Closed-box testing"
+      "Unit testing"
     ],
     "answerKey": 3
   },
@@ -14,19 +164,9 @@
     "options": [
       "Unit testing",
       "Integration testing",
-      "Endurance testing",
+      "endurance testing",
       "All of the above"
     ],
     "answerKey": 4
-  },
-  {
-    "question": "What is not the blackbox testing strategy?",
-    "options": [
-      "State Transition",
-      "Branch Testing",
-      "Boundary Value Testing",
-      "Equivalence Partitioning"
-    ],
-    "answerKey": 2
   }
 ]
